@@ -89,3 +89,14 @@ nav ul li {
 .header-text a:hover {
     border-bottom: 1px solid #fff;
 }
+
+main{
+    max-width: 100vw;
+    overflow: hidden;
+    display: flex;
+}
+
+main img{
+    width: 25%;
+    margin: 2px;
+}
