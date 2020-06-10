@@ -5,7 +5,7 @@
 }
 
 header {
-  position: relative;
+  position: flex;
   height: 85vh;
   border: 1px solid #333;
   background-image: url("./images/apple_background.jpg");
@@ -14,9 +14,8 @@ header {
 }
 
 nav {
-  position: relative;
-  top: 15%;
-  left: 17%;
+  position: flex;
+  margin: 7% auto;
   background: #333 linear-gradient(180deg, #999, #333);
   border: 0.1px solid #333;
   border-radius: 5px;
@@ -88,9 +87,8 @@ nav ul li a {
 }
 
 .header-text {
-  position: absolute;
-  top: 30%;
-  left: 20%;
+  position: flex;
+  margin: -5% auto;
   text-align: center;
   width: 60%;
 }
