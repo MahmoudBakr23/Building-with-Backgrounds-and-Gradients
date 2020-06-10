@@ -9,6 +9,7 @@ header {
   height: 85vh;
   border: 1px solid #333;
   background-image: url("./images/apple_background.jpg");
+  background-size: cover;
   background-position: 50% 100%;
 }
 
