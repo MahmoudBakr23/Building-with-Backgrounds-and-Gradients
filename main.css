@@ -14,8 +14,8 @@ header {
 
 nav {
     position: relative;
-    top: 20%;
-    left: 20%;
+    top: 15%;
+    left: 17%;
     background: #333 linear-gradient(180deg, #999, #333);
     border: 0.1px solid #333;
     border-radius: 5px;
@@ -24,11 +24,12 @@ nav {
 }
 
 ul {
-    min-width: 105%;
+    display: flex;
+    min-width: 115%;
+    list-style: none;
 }
 
 nav ul li {
-    display: inline-block;
     padding: 0.8% 3%;
     border-right: 1px solid #333;
     color: rgba(255, 255, 255, 0.747);
@@ -43,7 +44,7 @@ nav ul li {
 .search-bar {
     border-right: 0;
     width: 120px;
-    padding: 0 1%;
+    padding: 0.5% 1%;
 }
 
 .search-bar input {
