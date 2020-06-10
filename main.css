@@ -19,12 +19,12 @@ nav {
     background: #333 linear-gradient(180deg, #999, #333);
     border: 0.1px solid #333;
     border-radius: 5px;
-    width: 60%;
+    width: 65%;
     height: 7%;
 }
 
 ul {
-    min-width: 100%;
+    min-width: 105%;
 }
 
 nav ul li {
