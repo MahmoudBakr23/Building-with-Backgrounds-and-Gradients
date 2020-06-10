@@ -23,6 +23,10 @@ nav {
     height: 7%;
 }
 
+ul {
+    min-width: 100%;
+}
+
 nav ul li {
     display: inline-block;
     padding: 0.8% 3%;
@@ -43,8 +47,8 @@ nav ul li {
 }
 
 .search-bar input {
-    width: 70%;
-    border: 0.1px solid linear-gradient(180deg, #999, #333);
+    width: 100%;
+    border: 0.1px solid #333;
     height: 23px;
     border-radius: 10px;
     background-color: transparent;
@@ -75,6 +79,7 @@ nav ul li {
     color: white;
     font-weight: lighter;
     font-size: 2em;
+    padding-bottom: 5%;
 }
 
 .header-text a {
