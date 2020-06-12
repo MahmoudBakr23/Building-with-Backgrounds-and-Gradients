@@ -21,6 +21,8 @@ Building with Backgrounds and Gradients
 👤 **Author1**
 
 - Github: [@MahmoudBakr23](https://github.com/MahmoudBakr23)
+- Gmail: [mbakr6821@gmail.com]
+- LinkedIn: [Mahmoud Bakr](https://www.linkedin.com/in/mahmoud-bakr-a76323194/)
 
 👤 **Author2**
 
